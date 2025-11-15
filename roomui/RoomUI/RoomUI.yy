@@ -1,0 +1,22 @@
+{
+  "$GMRoomUI":"",
+  "%Name":"RoomUI",
+  "children":[
+    {"$GMRUILayer":"v1","%Name":"UILayer_1","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"FlexPanel_1","alignItems":2,"children":[
+            {"$GMRFlexPanel":"","%Name":"FlexPanel_2","alignItems":2,"children":[],"flexDirection":0,"height":{"unit":3,"value":11.0,},"justifyContent":1,"name":"FlexPanel_2","nodeColour":4282970857,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":10.0,},},
+          ],"flexDirection":0,"height":{"unit":3,"value":11.0,},"justifyContent":1,"name":"FlexPanel_1","nodeColour":4294096968,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":10.0,},},
+        {"$GMRFlexPanel":"","%Name":"FlexPanel","alignItems":2,"children":[],"flexDirection":0,"height":{"unit":3,"value":19.0,},"justifyContent":1,"name":"FlexPanel","nodeColour":4286990578,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":93.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayer_1","nodeColour":4282970709,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+  ],
+  "locked":false,
+  "name":"RoomUI",
+  "parent":{
+    "name":"trabalhopv",
+    "path":"trabalhopv.yyp",
+  },
+  "resourceType":"GMRoomUI",
+  "resourceVersion":"2.0",
+  "viewspaceChildren":[],
+  "visible":true,
+}
