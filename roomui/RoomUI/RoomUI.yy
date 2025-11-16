@@ -3,6 +3,9 @@
   "%Name":"RoomUI",
   "children":[
     {"$GMRUILayer":"v1","%Name":"UILayer_1","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"FlexPanel_3","alignItems":2,"children":[
+            {"$GMRInstance":"v4","%Name":"inst_5D6BA18","colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5D6BA18","objectId":{"name":"Play","path":"objects/Play/Play.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.4320061,"scaleY":3.4320061,"x":0.0,"y":0.0,},
+          ],"flexDirection":0,"height":{"unit":3,"value":45.0,},"justifyContent":1,"name":"FlexPanel_3","nodeColour":4282970768,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":178.0,},},
         {"$GMRFlexPanel":"","%Name":"FlexPanel_1","alignItems":2,"children":[
             {"$GMRFlexPanel":"","%Name":"FlexPanel_2","alignItems":2,"children":[],"flexDirection":0,"height":{"unit":3,"value":11.0,},"justifyContent":1,"name":"FlexPanel_2","nodeColour":4282970857,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":10.0,},},
           ],"flexDirection":0,"height":{"unit":3,"value":11.0,},"justifyContent":1,"name":"FlexPanel_1","nodeColour":4294096968,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":10.0,},},

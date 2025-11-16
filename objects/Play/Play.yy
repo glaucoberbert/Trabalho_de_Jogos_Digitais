@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprBigLetterP",
-    "path":"sprites/sprBigLetterP/sprBigLetterP.yy",
+    "name":"spr_play",
+    "path":"sprites/spr_play/spr_play.yy",
   },
   "spriteMaskId":null,
   "visible":true,

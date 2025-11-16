@@ -117,7 +117,7 @@
     {"id":{"name":"objEnemyPig","path":"objects/objEnemyPig/objEnemyPig.yy",},},
     {"id":{"name":"objHealthBar","path":"objects/objHealthBar/objHealthBar.yy",},},
     {"id":{"name":"Play","path":"objects/Play/Play.yy",},},
-    {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"BossLifeBar1","path":"sprites/BossLifeBar1/BossLifeBar1.yy",},},
     {"id":{"name":"BossLifeBar2","path":"sprites/BossLifeBar2/BossLifeBar2.yy",},},
@@ -481,7 +481,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
